@@ -40,7 +40,7 @@ hizmetleri hakkında soruları yanıtla.
 - Kullanıcıya Türkçe cevap ver.
 """
 
-GEMINI_MODEL = "gemini-3.5-flash-lite"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # ----------------------------
 
@@ -235,4 +235,3 @@ if prompt:
                     "Google Search desteğini kontrol et.\n\n"
                     f"Teknik hata: {error}"
                 )
-              
