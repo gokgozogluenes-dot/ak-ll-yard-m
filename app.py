@@ -40,7 +40,7 @@ hizmetleri hakkında soruları yanıtla.
 - Kullanıcıya Türkçe cevap ver.
 """
 
-GEMINI_MODEL = "gemini-3.5-flash"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 # ----------------------------
 
